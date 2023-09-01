@@ -1,0 +1,4 @@
+#Fri Sep 01 10:17:47 PST 2023
+base.0=C\:\\Users\\bryan\\Documents\\Flutter Projects\\lost_and_found_test\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
